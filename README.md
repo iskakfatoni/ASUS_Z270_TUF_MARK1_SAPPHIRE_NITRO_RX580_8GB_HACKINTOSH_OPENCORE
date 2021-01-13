@@ -12,3 +12,5 @@
 - WebCam: Logitech C525
 
 ![Pic](https://github.com/iskakfatoni/ASUS_Z270_TUF_MARK1_SAPPHIRE_NITRO_RX580_6GB_HACKINTOSH_OPENCORE/blob/main/PIC/Asusz270TUFMark1.jpg)
+
+![Pic](https://github.com/iskakfatoni/ASUS_Z270_TUF_MARK1_SAPPHIRE_NITRO_RX580_6GB_HACKINTOSH_OPENCORE/blob/main/PIC/SAPPHIRE_NITRO_RX580_8GB.jpeg)
