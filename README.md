@@ -10,3 +10,5 @@
 - Wirelles : TP-Link TP-WDN4800 (not work yet)
 - MacOS Storage : 256Gb Player SSD nvme (via adapter pcie to nvme)
 - WebCam: Logitech C525
+
+![Pic](https://github.com/iskakfatoni/ASUS_Z270_TUF_MARK1_SAPPHIRE_NITRO_RX580_6GB_HACKINTOSH_OPENCORE/blob/main/PIC/Asusz270TUFMark1.jpg)
