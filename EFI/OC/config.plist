@@ -797,7 +797,7 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<true/>
+			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PollAppleHotKeys</key>
@@ -1073,9 +1073,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>USEYOURBRAIN</string>
+			<string>C02Z70ZVJWDW</string>
 			<key>SystemUUID</key>
-			<string>E81B26F6-B2C6-4491-AAD2-XXXXXXXXXXX</string>
+			<string>E81B26F6-B2C6-4491-AAD2-93DC1FD16112</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1243,8 +1243,6 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DeduplicateBootOrder</key>
-			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
