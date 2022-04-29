@@ -6,7 +6,7 @@
 - RAM : 16Gb ddr4 3200 Team TForce RGB
 - Graphics : Saphire Nitro+ RX580 8Gb
 - Sound : ALCS1220A
-- Ethernet : I1219V Ethernet and I1211 Gigabit Ethernet (not work yet)
+- Ethernet : I1219V Ethernet and I1211 Gigabit Ethernet (both worked)
 - Wirelles : TP-Link TP-WDN4800 (not work yet)
 - MacOS Storage : 256Gb Player SSD nvme (via adapter pcie to nvme)
 - WebCam: Logitech C525
